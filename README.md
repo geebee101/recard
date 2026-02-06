@@ -90,7 +90,7 @@ lexicard/
 
 ## 🗺️ Roadmap
 
-- [ ] Transition from JSON to SQLite/PostgreSQL for large-scale data.
+- [ ] Transition from JSON to AT protocol.
 - [ ] Full multi-user isolation and Cloud synchronization.
-- [ ] Mobile-native packaging via NiceGUI's desktop/pwa modes.
+- [ ] Mobile-native packaging via NiceGUI's desktop/pwa modes. NTH
 - [ ] Advanced "Missing Word" and "Audio Transcription" practice modes.
