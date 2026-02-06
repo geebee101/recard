@@ -37,7 +37,10 @@ Useful commands and workflow:
   4. git push <REMOTE> <OPT.BRANCH>
       <REMOTE> is typically 'tangled' and/or 'github'
 * Other useful git commands: git log / git diff
-
+git remote add github <URL>
+git pull github main  --allow-unrelated-histories
+git push --set-upstream github main
+ 
 ### LANGUAGE: python Best Practices
 
 #### Code Style

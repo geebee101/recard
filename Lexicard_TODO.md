@@ -12,7 +12,10 @@ title: Lexicard_TODO.md
 7. create template DONE
 8. create all pages DONE
 9. backup copy >> gh commit + tag 0.1
-10. rework w gem: review / doc / tests
+10. gh commit / tag / package
+11. rework w gem: review / doc / tests
+12. gh commit / tag / package
+13. publish for Marius
 
 deck capability
 

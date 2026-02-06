@@ -76,9 +76,9 @@ class XMLEditor:
     def get_node(
         self,
         tag: str,
-        attrs: Optional[dict[str, str]] = None,
-        line_number: Optional[Union[int, range]] = None,
-        contains: Optional[str] = None,
+        attrs: dict[str, str] | None = None,
+        line_number: int | range | None = None,
+        contains: str | None = None,
     ):
         """
         Get a DOM element by tag and identifier.
@@ -127,8 +127,7 @@ class XMLEditor:
             # Check attrs filter
             if attrs is not None:
                 if not all(
-                    elem.getAttribute(attr_name) == attr_value
-                    for attr_name, attr_value in attrs.items()
+                    elem.getAttribute(attr_name) == attr_value for attr_name, attr_value in attrs.items()
                 ):
                     continue
 
