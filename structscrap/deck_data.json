@@ -1,0 +1,248 @@
+{
+  "author": "แรช",
+  "name": "demodeck",
+  "description": "a deck targeting Thai to demo the app.",
+  "target_language": "th",
+  "cards": [
+    {
+      "tid": 647,
+      "sound": "ของ",
+      "check_for_correction": false,
+      "phonetic": "kɔɔng",
+      "target_word": "ของ ...",
+      "explain": "of"
+    },
+    {
+      "tid": 923,
+      "sound": "นะ",
+      "check_for_correction": false,
+      "phonetic": "ná",
+      "target_word": "นะ",
+      "explain": "(emphasis)"
+    },
+    {
+      "tid": 173,
+      "sound": "ชั้น",
+      "check_for_correction": false,
+      "phonetic": "chán",
+      "target_word": "ชั้น",
+      "explain": "(pronoun)"
+    },
+    {
+      "tid": 717,
+      "sound": "คุณ",
+      "check_for_correction": false,
+      "phonetic": "kun",
+      "target_word": "คุณ",
+      "explain": "(pronoun)"
+    },
+    {
+      "tid": 718,
+      "sound": "คุณ",
+      "check_for_correction": false,
+      "phonetic": "kun ...",
+      "target_word": "คุณ ..",
+      "explain": "(honorific"
+    },
+    {
+      "tid": 1031,
+      "sound": "วัว",
+      "check_for_correction": false,
+      "phonetic": "nʉ́a (wua)",
+      "target_word": "เนื้อ(วัว)",
+      "explain": "beef"
+    },
+    {
+      "tid": 1112,
+      "sound": "ผม",
+      "check_for_correction": false,
+      "phonetic": "pǒm",
+      "target_word": "ผม",
+      "explain": "(pronoun)"
+    },
+    {
+      "tid": 1319,
+      "sound": "ส้มตำ",
+      "check_for_correction": false,
+      "phonetic": "sômdtam",
+      "target_word": "ส้มตำ",
+      "explain": "(dish)"
+    },
+    {
+      "tid": 822,
+      "sound": "มา",
+      "check_for_correction": false,
+      "phonetic": "maa",
+      "target_word": "มา",
+      "explain": "come"
+    },
+    {
+      "tid": 1015,
+      "sound": "เงิน",
+      "check_for_correction": false,
+      "phonetic": "ngǝn sòt",
+      "target_word": "เงินสด",
+      "explain": "cash"
+    },
+    {
+      "tid": 1067,
+      "sound": "ผัด",
+      "check_for_correction": false,
+      "phonetic": "pàt pàk",
+      "target_word": "ผัดผัก",
+      "explain": "(dish)"
+    },
+    {
+      "tid": 1401,
+      "sound": "0",
+      "check_for_correction": false,
+      "phonetic": "tɛɛn",
+      "target_word": "แทน",
+      "explain": "instead"
+    },
+    {
+      "tid": 211,
+      "sound": "ชื่อ",
+      "check_for_correction": false,
+      "phonetic": "chûulên",
+      "target_word": "ชื่อเล่น",
+      "explain": "nickname"
+    },
+    {
+      "tid": 777,
+      "sound": "0",
+      "check_for_correction": false,
+      "phonetic": "lǝǝi",
+      "target_word": "เลย",
+      "explain": "now"
+    },
+    {
+      "tid": 623,
+      "sound": "คัน",
+      "check_for_correction": false,
+      "phonetic": "kan",
+      "target_word": "คัน",
+      "explain": "(classifier)"
+    },
+    {
+      "tid": 1157,
+      "sound": "รัฐ",
+      "check_for_correction": false,
+      "phonetic": "rát",
+      "target_word": "รัฐ",
+      "explain": "state"
+    },
+    {
+      "tid": 139,
+      "sound": "0",
+      "check_for_correction": false,
+      "phonetic": "bproodtugèet",
+      "target_word": "โปรตุเกส",
+      "explain": "portugal"
+    },
+    {
+      "tid": 1538,
+      "sound": "0",
+      "check_for_correction": false,
+      "phonetic": "yen",
+      "target_word": "เย็น",
+      "explain": "cold"
+    },
+    {
+      "tid": 628,
+      "sound": "ขนม",
+      "check_for_correction": false,
+      "phonetic": "kanǒm",
+      "target_word": "ขนม",
+      "explain": "snacks"
+    },
+    {
+      "tid": 727,
+      "sound": "คืน",
+      "check_for_correction": false,
+      "phonetic": "kʉʉn",
+      "target_word": "คืน",
+      "explain": "send back"
+    },
+    {
+      "tid": 169,
+      "sound": "0",
+      "check_for_correction": false,
+      "phonetic": "chái",
+      "target_word": "ใช้",
+      "explain": "spend"
+    },
+    {
+      "tid": 180,
+      "sound": "ชอบ",
+      "check_for_correction": false,
+      "phonetic": "chɔ̂ɔp",
+      "target_word": "ชอบ",
+      "explain": "like"
+    },
+    {
+      "tid": 1051,
+      "sound": "ผ่าน",
+      "check_for_correction": false,
+      "phonetic": "pàan",
+      "target_word": "ผ่าน",
+      "explain": "go past"
+    },
+    {
+      "tid": 1439,
+      "sound": "ถึง",
+      "check_for_correction": false,
+      "phonetic": "těng",
+      "target_word": "ถึง",
+      "explain": "arrive"
+    },
+    {
+      "tid": 835,
+      "sound": "0",
+      "check_for_correction": false,
+      "phonetic": "mâi",
+      "target_word": "ไม่",
+      "explain": "not"
+    },
+    {
+      "tid": 84,
+      "sound": "0",
+      "check_for_correction": false,
+      "phonetic": "bpai",
+      "target_word": "ไป",
+      "explain": "go"
+    },
+    {
+      "tid": 833,
+      "sound": "0",
+      "check_for_correction": false,
+      "phonetic": "mài",
+      "target_word": "ใหม่",
+      "explain": "again"
+    },
+    {
+      "tid": 412,
+      "sound": "0",
+      "check_for_correction": false,
+      "phonetic": "gɔ̂ɔ rʉ̂ai-rʉ̂ai",
+      "target_word": "ก็เรื่อยๆ",
+      "explain": "(expression)"
+    },
+    {
+      "tid": 1046,
+      "sound": "0",
+      "check_for_correction": false,
+      "phonetic": "ookee",
+      "target_word": "โอเค",
+      "explain": "okay"
+    },
+    {
+      "tid": 183,
+      "sound": "0",
+      "check_for_correction": false,
+      "phonetic": "chɔ̌i-chɔ̌i",
+      "target_word": "เฉยๆ",
+      "explain": "so-so"
+    }
+  ]
+}
